@@ -25,5 +25,6 @@ This project allows users to control the mouse cursor and perform left/right cli
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hand-gesture-control.git
-   cd hand-gesture-control
+   git clone https://github.com/MohanCheenu/Virtual-Mouse-Using-Hand-Gesture.git
+   cd Virtual-Mouse-Using-Hand-Gesture
+   
